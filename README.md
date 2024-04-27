@@ -1,6 +1,6 @@
 # Introduction
 
-Simple enemy pathfinding algorithm for ROBLOX characters. Easy to use and compatible with different character models. Properties and variables are adjustable as shown in the script.
+Simple enemy pathfinding algorithm for ROBLOX characters. Able to avoid obstacles, wrap walls, and locate player targets. Easy to use and compatible with different character models. Properties and variables are adjustable as shown in the script.
 
 # Instructions
 
