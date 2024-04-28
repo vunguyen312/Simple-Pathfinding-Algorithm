@@ -7,7 +7,7 @@
   
 # Demo
 
-![pathfindingDEMO](/Simple-Pathfinding-Algorithm/assets/demo.gif)
+![pathfindingDEMO](/assets/demo.gif)
 
 # Install Instructions
 
